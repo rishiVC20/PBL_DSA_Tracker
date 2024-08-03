@@ -1,0 +1,126 @@
+.parentUP{
+    background-color: rgb(68, 68, 68);
+    width: 100%;
+    padding-bottom: 2vw;
+}
+
+.profilediv{
+    background-color: rgb(54, 54, 54);
+    box-shadow: 1px 1px 1px -10px rgb(255, 255, 255), -1px -1px 150px -40px rgb(255, 255, 255);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.profiledivleft{
+    background-color: rgb(54, 54, 54);
+    margin-bottom: 15px;
+}
+
+.profiledivright{
+    background-color: rgb(54, 54, 54);
+    margin-bottom: 15px;
+}
+
+.userimgdiv{
+    border: 6px solid black;
+    margin: auto;
+    margin-top: 3vw;
+    height: 15vw;
+    width: 15vw;
+    background-color: slategray;
+}
+
+.userimg{
+    height: auto;
+    width: 15vw;
+}
+
+.usn{
+    font-size: larger;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-top: 1vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logoutbtn{
+    width:  90px;
+    height: 30px;
+    cursor: pointer;
+    align-content: center;
+    margin-left: 16.3vw;
+    margin-top: 1vw;
+}
+
+.userdetails{
+    margin-top: 3vw;
+    line-height: 0;
+    color: white;
+}
+
+.userinfoval{
+    border: 1px solid rgb(203, 203, 203);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin-right: 3vw;
+    padding-top: 1.6vw;
+    padding-bottom: 1.6vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.inputboxP{
+    border: none;
+    /* margin: -10px; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    width: 19vw;
+    background-color: gray;
+}
+
+.editbtn{
+    width: 21px;
+    height: 22px;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.editicon{
+    width: 20px;
+    height: auto;
+}
+
+.popupP{
+    background-color: rgb(35, 35, 35);
+    width: 21vw;
+    padding-left: 1vw;
+    border-radius: 5px;
+    color: white;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+}
+
+.progressDivL{
+    background-color: rgb(54, 54, 54);
+    padding-left: 1vw;
+    padding-top: 10px;
+    color: white;
+    padding-bottom: 1vw;
+    border-top: 2px solid rgb(68, 68, 68);
+}
+
+.progressDivR{
+    background-color: rgb(54, 54, 54);
+    padding-left: 1vw;
+    padding-top: 44px;
+    color: white;
+    padding-bottom: 1vw;
+    border-top: 2px solid rgb(68, 68, 68);
+}

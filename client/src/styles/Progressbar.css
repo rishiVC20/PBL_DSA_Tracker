@@ -1,0 +1,15 @@
+.progress-bar{
+    height: 15px;
+    width: 90%;
+    margin: 5px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.progress-bar-fill{
+    background-color: lime;
+    height: 13.5px;
+    border-radius: 2.5px;
+    font-size: 10px;
+    font-weight: 400;
+}
